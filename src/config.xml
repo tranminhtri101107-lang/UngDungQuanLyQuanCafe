@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- File cấu hình kết nối CSDL — đặt cùng thư mục với file .jar hoặc thư mục gốc project -->
+<database>
+    <url>jdbc:sqlserver://localhost:1433;databaseName=QuanLyQuanCafe;encrypt=false</url>
+    <user>sa</user>
+    <pass>123456</pass>
+    <server_ip>127.0.0.1</server_ip>
+</database>
