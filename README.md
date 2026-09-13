@@ -27,10 +27,12 @@ Dự án phần mềm quản lý quán cafe toàn diện, được thiết kế 
 
 ## 📸 Ảnh chụp màn hình
 *(Ảnh giao diện bán hàng)*
-![Giao diện bán hàng](Thêm link ảnh giao diện POS vào đây)
+<img width="1917" height="1020" alt="Screenshot 2026-09-13 202701" src="https://github.com/user-attachments/assets/bea73279-6409-4c69-a0da-31c28ecd03a1" />
+
 
 *(Ảnh giao diện quản lý nhân sự/kho)*
-![Giao diện quản lý](Thêm link ảnh giao diện Quản lý vào đây)
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/d3204fbf-9a70-41b5-b78c-791ac40cc7ab" />
+
 
 ## 🚀 Hướng dẫn cài đặt
 1. Clone repository này về máy: `git clone https://github.com/tranminhtri101107/Ten-Repo-Cua-Ban.git`
